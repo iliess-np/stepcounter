@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">stepcounter</string>
+    <string name="steps_counter">steps Counter</string>
+    <string name="steps_detector">steps Detector</string>
+</resources>
